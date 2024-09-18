@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Civilizations\Celestic\Enochian\" />
+    <Folder Include="Civilizations\Cosmic\Mortis\" />
+    <Folder Include="Civilizations\Celestic\Satanism\" />
+    <Folder Include="Civilizations\Imperial\China\" />
+    <Folder Include="Civilizations\Imperial\RisingSun\" />
+    <Folder Include="Civilizations\Cosmic\" />
+    <Folder Include="Civilizations\Outerworld\GalacticRepublic\" />
+    <Folder Include="Civilizations\Outerworld\EternalEmpire\" />
+    <Folder Include="Civilizations\Outerworld\Prometheus\" />
+    <Folder Include="Civilizations\Pantheon\Egyptian\" />
+    <Folder Include="Civilizations\Imperial\Arabian\" />
+    <Folder Include="Civilizations\Pantheon\Aztec\" />
+    <Folder Include="Civilizations\Pantheon\African\" />
+    <Folder Include="Civilizations\Pantheon\Greek\Greek_Units\" />
+    <Folder Include="Civilizations\Shamanic\Hittite\" />
+    <Folder Include="Civilizations\Shamanic\Haitian\" />
+    <Folder Include="Civilizations\Shamanic\UyghurAmericans\" />
+    <Folder Include="Civilizations\Pantheon\Hindu\" />
+    <Folder Include="Civilizations\Shamanic\Babylonian\" />
+    <Folder Include="Civilizations\Pantheon\Norse\" />
+    <Folder Include="Civilizations\Cosmic\Klyntar\" />
+    <Folder Include="Civilizations\Cosmic\Predator\" />
+    <Folder Include="Civilizations\Outerworld\Spacemarine\" />
+    <Folder Include="Civilizations\Cosmic\Tau\" />
+    <Folder Include="Civilizations\Shamanic\Amazons\" />
+    <Folder Include="Civilizations\Shamanic\Turk\" />
+    <Folder Include="Nature\" />
+    <Folder Include="GameFeatures\" />
+  </ItemGroup>
+
+</Project>
